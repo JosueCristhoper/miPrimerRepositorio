@@ -2,3 +2,5 @@ Elegi estos archivos con extension java, sql y txt en el archivo de programacion
 programa donde el usuario pide tu nombre y te imprime.
 En el archivo de bases de datos, hay una pequeña consulta de una base de datos.
 En el archivo de entornos hay un txt sobre comandos git
+
+** Modificacion para el stage **
